@@ -12,6 +12,7 @@ stop the program
  **3.**
 > ```concat(list of string or $variables splited by comma)```
 Join objects to make a string. 
+
 **Example**: concat("Tom ","and Jerry") >> Tom and jerry
 
 **4.**
