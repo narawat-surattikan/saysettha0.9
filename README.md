@@ -18,14 +18,16 @@ Join objects to make a string.
 **4.**
 > ```calc(expression)```
 Do calculation. 
+
 **Example**: calc(1-1+1) >> 1
-**Note **:
+**Note**:
 1. `+  -  *  / ^ and s are allowed` 
 2. `you can also use $variables`
 
 **5.**
 > ```goto <line>```
+ 
 Jump to any line in Saysettha. 
 **Example**: goto 4
-**Note **:
+**Note**:
 1. `only integer numbers are allowed`
