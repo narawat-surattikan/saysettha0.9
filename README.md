@@ -1,7 +1,7 @@
 # saysettha0.9
 Version 0.9 of Saysettha Compiler for Visual Basic for Application
 
-**1. **
+**1.**
 > ```die()```
 stop the program
 
